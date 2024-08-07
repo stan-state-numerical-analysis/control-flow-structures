@@ -2,7 +2,7 @@
 
 In this repository, we will explore how control flow structures in Python, that is, conditional statements, while loops, and for loops. Here is a brief overview of the repository structure:
 ```
-python-fundamentals
+control-flow-structures
 ├── homework/
 │   ├── README.md
 │   ├── __init__.py
